@@ -1,0 +1,13 @@
+# Ignore config.json (sensitive information)
+config.json
+
+# Ignore all screenshot files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Ignore other unnecessary files
+.DS_Store  # macOS system file
+Thumbs.db  # Windows system file
